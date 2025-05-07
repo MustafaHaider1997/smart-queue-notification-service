@@ -1,0 +1,6 @@
+Flask
+redis
+python-dotenv
+sendgrid
+twilio
+azure-communication-email
